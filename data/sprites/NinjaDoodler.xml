@@ -1,0 +1,11 @@
+<Sprite name="NinjaDoodler">
+	<Dimensions>
+		<X>0.4</X>
+		<Y>0.4</Y>
+	</Dimensions>
+	<Offset>
+		<X>0.0</X>
+		<Y>0.0</Y>
+	</Offset>
+	<TexturePath>textures/ninjaDoodler/ninjaDoodler.png</TexturePath>
+</Sprite>

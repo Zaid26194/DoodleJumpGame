@@ -1,0 +1,11 @@
+<Sprite name="DoodleBullet">
+	<Dimensions>
+		<X>0.1</X>
+		<Y>0.1</Y>
+	</Dimensions>
+	<Offset>
+		<X>0.0</X>
+		<Y>0.0</Y>
+	</Offset>
+	<TexturePath>textures/doodleBullet/doodleBullet.png</TexturePath>
+</Sprite>

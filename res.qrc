@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>data/audio/ChippyChiptune.mp3</file>
+    </qresource>
+</RCC>

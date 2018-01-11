@@ -1,0 +1,104 @@
+<MultiSprite name="JumpPad">
+	<State name="LeftUp">
+		<Sprite name="Doodler">
+			<Dimensions>
+				<X>0.4</X>
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_left_up.png</TexturePath>
+		</Sprite>
+	</State>
+	<State name="LeftDown">
+		<Sprite name="Doodler">
+			<Dimensions>
+				<X>0.4</X>
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_left_down.png</TexturePath>
+		</Sprite>
+	</State>
+	<State name="RightUp">
+		<Sprite name="Doodler">
+			<Dimensions>
+				<X>0.4</X>
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_right_up.png</TexturePath>
+		</Sprite>
+	</State>
+	<State name="RightDown">
+		<Sprite name="Doodler">
+			<Dimensions>
+				<X>0.4</X>
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_right_down.png</TexturePath>
+</Sprite>
+</State>
+	<State name="Shoot">
+		<Sprite name="Nozzle">
+			<Dimensions>
+				<X>0.12</X>
+				<Y>0.24</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.5</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_shoot_nozzle.png</TexturePath>
+		</Sprite>
+		<Sprite name="Doodler">
+			<Dimensions>
+				<X>0.35</X>
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>
+				<X>0.0</X>
+				<Y>0.0</Y>
+			</Offset>
+			<TexturePath>textures/doodler/doodle_shoot_up.png</TexturePath>
+		</Sprite>
+	</State>
+	<State name ="LeftDead">
+		<Sprite name="Doodler">
+			<Dimensions>	
+				<X>0.4</X>	
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>	
+				<X>0.0</X>	
+				<Y>0.0</Y>	
+			</Offset>	
+			<TexturePath>textures/doodler/doodle_dead_left.png</TexturePath>
+		</Sprite>	
+	</State>
+	<State name ="RightDead">
+		<Sprite name="Doodler">
+			<Dimensions>	
+				<X>0.4</X>	
+				<Y>0.4</Y>
+			</Dimensions>
+			<Offset>	
+				<X>0.0</X>	
+				<Y>0.0</Y>	
+			</Offset>	
+			<TexturePath>textures/doodler/doodle_dead_right.png</TexturePath>
+		</Sprite>	
+	</State>
+</MultiSprite>
